@@ -1,0 +1,4 @@
+# Fichier : .gitignore
+# Rôle    : Exclure les images brutes très lourdes du dépôt GitHub
+
+images/
